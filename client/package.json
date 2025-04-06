@@ -8,10 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-  "postinstall": "npm install"
-  
-}
-    
+    "postinstall": "npm install"
   },
   "dependencies": {
     "@cloudinary/react": "^1.14.1",
