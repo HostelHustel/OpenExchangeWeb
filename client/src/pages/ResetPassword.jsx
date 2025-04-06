@@ -3,7 +3,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import axios from "axios";
 import { BiLock, BiLoaderAlt, BiError } from 'react-icons/bi';
 import { FiArrowLeft, FiCheckCircle } from 'react-icons/fi';
-import pic from '../../assets/pic.png';
+import pic from '../../assets/Pic.png';
 import { BiShow, BiHide } from 'react-icons/bi';
 
 function ResetPassword() {
